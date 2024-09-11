@@ -44,5 +44,5 @@ I'm **Kyle Graupe**, a passionate software developer and machine learning enthus
 ---
 
 **💬 Let's Collaborate!**
-Feel free to reach out if you'd like to work on a project together or discuss innovative ideas.
+Feel free to reach out if you'd like to discuss employment, work on a project together, or to discuss any of mine or your projects!
 
