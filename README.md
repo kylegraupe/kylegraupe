@@ -1,7 +1,8 @@
 <!-- Interactive Typing Name Animation (GIF or external service like Lottie can be used) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=0FFFD0&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Kyle+Graupe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=10000&color=0FFFD0&center=true&vCenter=true&width=500&lines=Kyle+Graupe, M.S., B.S." alt="Typing SVG" />
 </h1>
+
 
 ## 🌟 Welcome to my GitHub Profile!
 
