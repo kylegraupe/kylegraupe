@@ -21,9 +21,10 @@ I'm **Kyle Graupe**, a passionate software developer and machine learning enthus
 
 ### 🚀 My Portfolio Projects:
 
-| **Project Name**  | **Description**  | **Link**  |
-|-------------------|------------------|-----------|
-| Project 1         | Real-time Semantic Segmentation with Drones | [View on GitHub]([https://github.com/kylegraupe/](https://github.com/kylegraupe/real_time_semantic_segmentation_using_dji_drone)) |
+| **Project Name**  | **Description**  | **Technologies Used**                                                                                                                                            | **Link**                                               |
+|-------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Project 1         | Real-time Semantic Segmentation with Drones | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF5733.svg?style=for-the-badge&logo=OpenCV&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-%23F46D25.svg?style=for-the-badge&logo=Pillow&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white) | [View on GitHub](https://github.com/kylegraupe/real_time_semantic_segmentation_using_dji_drone) |
+
 
 
 ---
