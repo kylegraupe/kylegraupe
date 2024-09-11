@@ -22,7 +22,7 @@ I'm **Kyle Graupe**, a passionate software developer and machine learning enthus
 
 ---
 
-### 🥷 My Portfolio Projects:
+### 🥷 My Top Portfolio Projects:
 
 | **Project Name**  | **Description**  | **Technologies Used**                                                                                                                                            | **Link**                                               |
 |-------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
