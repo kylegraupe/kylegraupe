@@ -29,7 +29,7 @@ I'm **Kyle Graupe**, a passionate software developer and machine learning enthus
 ---
 
 ### 📈 GitHub Stats:
-![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylegraupe&show_icons=true&theme=radical)
 
 ---
 
