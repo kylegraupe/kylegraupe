@@ -7,8 +7,8 @@
 
 I'm **Kyle Graupe**, a passionate software developer and machine learning enthusiast. Here you'll find a selection of my latest work, projects, and contributions. Feel free to check them out!
 
-- M.S. in Modeling and Simulation Engineering with Focus in Machine Learning, Deep Learning, and Computer Vision
-- B.S. in Aerospace and Ocean Engineering
+- M.S. in Modeling and Simulation Engineering with Focus in Machine Learning, Deep Learning, and Computer Vision [@Old Dominion University](https://www.odu.edu/academics/programs/masters/modeling-simulation-science)
+- B.S. in Aerospace and Ocean Engineering, Minor in Naval Engineering [@Virginia Tech](https://www.aoe.vt.edu/)
 - Currently building real-time computer vision applications for DJI drone streaming via RTMP server.
 
 ### 🔗 Connect with me:
