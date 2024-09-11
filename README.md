@@ -14,6 +14,7 @@ I'm **Kyle Graupe**, a passionate software developer and machine learning enthus
 - Currently building real-time computer vision applications for DJI drone streaming via RTMP server.
 
 ### 🔗 Connect with me:
+[![Resume](https://img.shields.io/badge/Resume-%23B57EDC.svg?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/drive/u/0/home)
 [![graupe.io](https://img.shields.io/badge/Website-%230A66C2.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.graupe.io)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kylegraupe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-handle/](https://www.linkedin.com/in/kyle-graupe-8a78a8197/))
