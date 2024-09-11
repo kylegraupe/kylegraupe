@@ -7,6 +7,10 @@
 
 I'm **Kyle Graupe**, a passionate software developer and machine learning enthusiast. Here you'll find a selection of my latest work, projects, and contributions. Feel free to check them out!
 
+- M.S. in Modeling and Simulation Engineering with Focus in Machine Learning, Deep Learning, and Computer Vision
+- B.S. in Aerospace and Ocean Engineering
+- Currently building real-time computer vision applications for DJI drone streaming via RTMP server.
+
 ### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-handle/](https://www.linkedin.com/in/kyle-graupe-8a78a8197/))
