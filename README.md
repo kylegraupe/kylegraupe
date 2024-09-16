@@ -20,6 +20,8 @@ I'm **Kyle Graupe**, a passionate software developer and machine learning enthus
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-handle/](https://www.linkedin.com/in/kyle-graupe-8a78a8197/))
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:graupekyle@gmail.com)
 
+Feel free to reach out if you'd like to discuss employment, work on a project together, or to discuss any of mine or your projects!
+
 ---
 
 ### 🥷 My Top Portfolio Projects:
@@ -31,18 +33,4 @@ I'm **Kyle Graupe**, a passionate software developer and machine learning enthus
 | Project 3         | Solving N Queens Problem with AI Manual Implementation | ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white) | [View on GitHub](https://github.com/kylegraupe/solving_N_Queens_problem_with_AI) |
 | Project 4         | Solving Pukoban Game with AI Manual Implementation | ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white) | [View on GitHub](https://github.com/kylegraupe/solving_pukoban_game_with_AI) |
 
-
-
----
-
-<!--
-### 📈 GitHub Stats:
-![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylegraupe&show_icons=true&count_private=true&theme=radical)
--->
-
-
----
-
-**💬 Let's Collaborate!**
-Feel free to reach out if you'd like to discuss employment, work on a project together, or to discuss any of mine or your projects!
 
