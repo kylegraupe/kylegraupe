@@ -6,7 +6,7 @@
 
 ## ⚡️ Welcome to my GitHub Profile!
 
-I'm **Kyle Graupe**, a passionate software developer and machine learning enthusiast. Here you'll find a selection of my latest work, projects, and contributions. Feel free to check them out!
+I'm **Kyle Graupe**, a passionate software developer and machine learning engineer. Here you'll find a selection of my latest work, projects, and contributions. Feel free to check them out!
 
 ### 📝 Overview
 - M.S. in Modeling and Simulation Engineering with Focus in Machine Learning, Deep Learning, and Computer Vision [@Old Dominion University](https://www.odu.edu/academics/programs/masters/modeling-simulation-science)
