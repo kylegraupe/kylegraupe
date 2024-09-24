@@ -1,6 +1,6 @@
 <!-- Interactive Typing Name Animation (GIF or external service like Lottie can be used) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=10000&color=0FFFD0&center=false&vCenter=true&width=1000&lines=Kyle+Graupe, Machine Learning Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=10000&color=0FFFD0&center=false&vCenter=true&width=1000&lines=Kyle+Graupe,+Software+Engineer+-+Data+Science+%26+ML" alt="Typing SVG" />
 </h1>
 
 
