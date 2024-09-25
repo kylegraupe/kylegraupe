@@ -36,7 +36,7 @@ Feel free to reach out if you'd like to discuss employment, work on a project to
 
 ---
 
-### 🚀 Languages and Frameworks
+### Skills
 
 **Languages:**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
