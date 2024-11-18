@@ -9,6 +9,8 @@
 I'm **Kyle Graupe**, a passionate software developer and machine learning engineer. Here you'll find a selection of my latest work, projects, and contributions. Feel free to check them out!
 
 ### 📝 Overview
+- M.S. in Machine Learning
+  - [@Stevens Institute of Technology](https://stevens.smartcatalogiq.com/en/2024-2025/academic-catalog/department-of-computer-science/graduate-programs/master-of-science-in-machine-learning/)
 - M.S. in Modeling and Simulation Engineering, Focus in Machine Learning, Deep Learning, and Computer Vision
   - [@Old Dominion University](https://www.odu.edu/academics/programs/masters/modeling-simulation-science), 2022-2024 (Part Time)
 - B.S. in Aerospace and Ocean Engineering, Minor in Naval Engineering
