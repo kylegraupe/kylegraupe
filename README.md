@@ -75,3 +75,10 @@ Feel free to reach out if you'd like to discuss employment, work on a project to
 - ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 
+## 📊 GitHub Stats
+
+<!-- GitHub Stats -->
+![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylegraupe&show_icons=true&theme=radical)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylegraupe&layout=compact&theme=radical)
