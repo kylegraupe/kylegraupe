@@ -70,7 +70,7 @@ Feel free to reach out if you'd like to discuss employment, work on a project to
 - ![Render](https://img.shields.io/badge/Render-4D4DFF?style=flat-square&logo=render&logoColor=white)
 - ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Development Tools:**
+**Cloud and Enterprise Tools:**
 - ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 - ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
