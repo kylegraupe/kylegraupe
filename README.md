@@ -21,7 +21,7 @@ I'm **Kyle Graupe**, a passionate software developer and machine learning engine
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=10000&startDelay=4000&color=E0AA3E&center=false&vCenter=true&width=1000&lines=LEAVE+A+STAR+OR+A+FOLLOW+IF+MY+PROJECTS+HELPFUL!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=10000&startDelay=4000&color=E0AA3E&center=false&vCenter=true&width=1000&lines=LEAVE+A+STAR+OR+A+FOLLOW+IF+MY+PROJECTS+HELPFUL!" alt="Typing SVG" />
 </h1>
 
 ---
