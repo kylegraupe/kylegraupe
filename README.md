@@ -24,8 +24,6 @@ I'm **Kyle Graupe**, a passionate software developer and machine learning engine
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=10000&startDelay=4000&color=E0AA3E&center=false&vCenter=true&width=1000&lines=LEAVE+A+STAR+OR+A+FOLLOW+IF+MY+PROJECTS+HELPFUL!" alt="Typing SVG" />
 </h1>
 
----
-
 ### 🔗 Connect with me:
 [![graupe.io](https://img.shields.io/badge/Website-%230A66C2.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.graupe.io)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kylegraupe)
