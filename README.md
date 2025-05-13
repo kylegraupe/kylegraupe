@@ -25,6 +25,7 @@ I'm **Kyle Graupe**, a passionate software developer and machine learning engine
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kylegraupe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-handle/](https://www.linkedin.com/in/kyle-graupe-8a78a8197/))
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:graupekyle@gmail.com)
+[![Sponsor Kyle](https://img.shields.io/badge/Sponsor-❤️-brightgreen)](https://github.com/sponsors/kylegraupe)
 
 Feel free to reach out if you'd like to discuss employment, work on a project together, or to discuss any of mine or your projects!
 
